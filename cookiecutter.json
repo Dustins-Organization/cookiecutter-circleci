@@ -2,5 +2,6 @@
     "generate_tox_file": "n",
     "generate_sphinx_doc": "n",
     "project_slug": "",
-    "project_type": ["cookiecutter"]
+    "project_type": ["cookiecutter"],
+    "version": "0.1"
 }
